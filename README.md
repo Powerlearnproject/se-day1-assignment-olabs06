@@ -31,6 +31,7 @@ The phases of Software Development Life Cycle include:
   - Testing
   - Depolyment
   - Maintenance
+
 To explain these fururther:
   - Requirements Gathering: includes gathering and documenting user needs and system requirements.
   - Design: Involves creating high-level and detailed designs of the software architecture and user interface.
@@ -68,7 +69,7 @@ High risk tolerance: The project team is willing to take risks to innovate and a
 Small and dynamic projects: The project's size and nature allow for a flexible and adaptable approach.
 
 ## Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software Developer
+### Software Developer
 Roles:
 - Designs, develops, and maintains software solutions
 - Collaborates with other developers, engineers, and stakeholders
@@ -80,7 +81,7 @@ Responsibilities:
 - Contributing to code reviews and peer support
 - Keeping up with new technologies and software development methodologies
 
-Quality Assurance Engineer
+### Quality Assurance Engineer
 Roles:
 - Ensures software meets quality standards and requirements
 - Identifies and reports software defects and bugs
@@ -93,7 +94,7 @@ Responsibilities:
 - Analyzing test results and providing feedback to developers
 - Participating in software design and development processes
 
-Project Manager
+#### Project Manager
 Roles:
 - Plans, organizes, and executes software engineering projects
 - Coordinates with stakeholders, team members, and other departments
